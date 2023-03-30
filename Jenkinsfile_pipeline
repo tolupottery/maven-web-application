@@ -1,5 +1,3 @@
-Jenkinsfile-March2023
-======================= 
 node{
   def mavenHome = tool name: 'maven3.9.1'
  stage('1.CodeClone'){
@@ -27,4 +25,3 @@ node{
   stage('8emailNotify'){
     emailext body: '''Hello Team,
 
-Build is done.
