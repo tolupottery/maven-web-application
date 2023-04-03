@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Landmark Technologies.</h1>
-<h2 align="center"> We are supporting the Ebay Black Friday Project.
+<h2 align="center"> We are supporting all forms of Projects.
 	Landmark Technologies is a software development company. 
 	Class32 will run from April 15, 2023 to August 2023.
 	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
